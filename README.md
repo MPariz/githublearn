@@ -1,2 +1,2 @@
-# githublearn
-introduction to github
+# githublearn for me
+introduction to GitHub
